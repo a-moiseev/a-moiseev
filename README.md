@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hi, I'm Alexey Moiseev
 
-<!--
-**a-moiseev/a-moiseev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Python Backend Developer** with over 20 years in IT and 5+ years focused on backend engineering and automation.  
+Currently based in Argentina, working remotely with international teams.
 
-Here are some ideas to get you started:
+- 🐍 **Stack:** Python 3.x, Django, FastAPI, DRF, AsyncIO, AioHTTP  
+- 🗄️ **Databases:** PostgreSQL, MongoDB, ArangoDB  
+- ⚙️ **Tools:** Celery, RabbitMQ, Kafka, Docker, Nginx, FFmpeg  
+- ☁️ **Experience:** SaaS platforms, media processing, API design, integration systems  
+- 💬 English B2 • Russian (native)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m open to **part-time remote contracts** and **freelance Python projects** — backend automation, APIs, and data/media processing.
+
+📫 **Contact:** [alexey@moiseev.pro](mailto:alexey@moiseev.pro) • [Telegram](https://t.me/yourusername)
+
+---
+
+> “Do it right — and it will work right.”  
+> *«Нормально делай — нормально будет.»*
